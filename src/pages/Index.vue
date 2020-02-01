@@ -8,14 +8,14 @@
           <div class="flex-1 font-bold w-full sm:w-3/5 text-center mb-3">
             <div class="text-lg leading-tight">Hi, I am</div>
             <div class="text-4xl leading-tight text-green-500">Aaron Mercado</div>
-            <div class="inline-block">
-              <span class="mx-1">
-                <a class="text-gray-700" href="https://github.com/ronmrcdo"><font-awesome :icon="['fab', 'github']"/></a>
-              </span>
-              <span class="mx-1">
-                <a class="text-gray-700" href="https://www.linkedin.com/in/aaron-mercado-8153a015b/"><font-awesome :icon="['fab', 'linkedin']"/></a>
-              </span>
-            </div>
+          </div>
+          <div class="flex-1 font-bold w-full sm:w-3/5 text-center mb-3">
+            <a class="text-gray-700 mx-1" href="https://github.com/ronmrcdo">
+              <font-awesome :icon="['fab', 'github']"/>
+            </a>
+            <a class="text-gray-700 mx-1" href="https://www.linkedin.com/in/aaron-mercado-8153a015b/">
+              <font-awesome :icon="['fab', 'linkedin']"/>
+            </a>
           </div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
             I'm a full stack developer specialized in web application. I practice the habit of learning and adapting in the fast-paced changes in technology. With the use of forums, articles, and my connections to my peers, I make an interest to apply the best practices and technologies to my web development career.
