@@ -10,11 +10,11 @@
             <div class="text-4xl leading-tight text-green-500">Aaron Mercado</div>
           </div>
           <div class="flex-1 font-bold w-full sm:w-3/5 text-center mb-3">
-            <a class="text-gray-700 mx-1" href="https://github.com/ronmrcdo">
-              <font-awesome :icon="['fab', 'github']"/>
+            <a class="text-gray-700 mx-1 hover:text-green-600" href="https://github.com/ronmrcdo">
+              <i class="fa fa-github" aria-hidden="true"></i>
             </a>
-            <a class="text-gray-700 mx-1" href="https://www.linkedin.com/in/aaron-mercado-8153a015b/">
-              <font-awesome :icon="['fab', 'linkedin']"/>
+            <a class="text-gray-700 mx-1 hover:text-green-600" href="https://www.linkedin.com/in/aaron-mercado-8153a015b/">
+              <i class="fa fa-linkedin-square" aria-hidden="true"></i>
             </a>
           </div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
