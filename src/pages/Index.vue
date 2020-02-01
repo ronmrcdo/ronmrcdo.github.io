@@ -18,7 +18,7 @@
             </div>
           </div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
-            I'm a full stack developer specialized in web application. I'm constantly learning new technologies and techniques and improving the quality of my work.
+            I'm a full stack developer specialized in web application. I practice the habit of learning and adapting in the fast-paced changes in technology. With the use of forums, articles, and my connections to my peers, I make an interest to apply the best practices and technologies to my web development career.
           </div>
         </div>
       </div> <!-- end get-to-know me -->
